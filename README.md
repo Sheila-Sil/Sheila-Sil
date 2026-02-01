@@ -1,5 +1,5 @@
-# 👨‍💻 Hi, I'm [Your Name]
-### [Current Role / Aspiring Role] | [Main Tech Stack, e.g., Full Stack Developer]
+#  Hi, I'm [Sheila Sil]
+### [Code Coach @ TheCoderSchool] | [Full-Stack Devolper]
 
 <p align="left">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,8 +20,8 @@ I am a results-driven aspiring high schooler with a passion for building scalabl
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sheila-Sil&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheila-Sil&layout=compact&theme=transparent" />
 </p>
 
 ---
