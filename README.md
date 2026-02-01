@@ -3,7 +3,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=polywork&logoColor=white" />
 </p>
 
@@ -16,13 +15,6 @@ High school student with a passion for teaching and technology. Founder of a sel
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python, JavaScript, CSS, HTML, Java |
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sheila-Sil&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheila-Sil&layout=compact&theme=visual_studio_code" />
-</p>
 
 ---
 
