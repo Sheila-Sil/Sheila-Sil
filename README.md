@@ -18,9 +18,10 @@ High school student with a passion for teaching and technology. Founder of a sel
 | **Languages** | Python, JavaScript, CSS, HTML, Java |
 
 ### 📊 GitHub Stats
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sheila-Sil&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheila-Sil&layout=compact&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sheila-Sil&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheila-Sil&layout=compact&theme=visual_studio_code" />
 </p>
 
 ---
