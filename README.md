@@ -23,5 +23,5 @@ High school student with a passion for teaching and technology. Founder of a sel
 - 💼 LinkedIn: https://www.linkedin.com/in/sheila-sil-968b07310/
 
 <div align="center">
-  <sub>"Code is like humor. When you have to explain it, it’s bad." – Cory House</sub>
+  <sub>"when life gets tough the tough gets going nd ur tuff so you keep going" – Sheila Sil</sub>
 </div>
