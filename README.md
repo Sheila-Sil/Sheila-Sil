@@ -11,7 +11,7 @@
 ### ⚡ About Me
 High school student with a passion for teaching and technology. Founder of a self-run coding course, with experience mentoring  students in Scratch, HTML, CSS, and JavaScript. Recognized for outstanding performance in coding competitions and known for creating engaging, student-centered lessons that foster a love for STEM. Strong communicator with leadership experienc, and a natural ability to connect with young learners.
 
-### 🚀 Tech Stack
+### 🚀 Languages
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Languages** | Python, JavaScript, CSS, HTML, Java |
