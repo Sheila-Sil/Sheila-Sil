@@ -4,19 +4,19 @@
 
 ### 💻 Full-Stack Developer • Code Coach @ TheCoderSchool • CS Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+things+with+code;Teaching+the+next+generation+of+developers;Always+learning+something+new." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+stuff+with+code;Teaching+the+next+generation+of+developers;Always+learning+something+new." />
 
 <p>
   <a href="https://www.linkedin.com/in/sheila-sil-968b07310">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Sheila-Sil">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 
   <a href="https://YOURPORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -54,22 +54,9 @@
 ### Frameworks & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode,firebase,supabase,figma"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -84,10 +71,9 @@
 
 # 📌 Current Projects
 
-- 🚀 AI-powered LaunchOS
+- 🚀 LaunchOS
 - 📱 Exploring mobile app development
 - 🎓 Teaching the next generation of programmers
-- 💡 Building new startup ideas
 
 ---
 
