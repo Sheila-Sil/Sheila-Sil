@@ -56,11 +56,10 @@
 
 ---
 
-# 🏆 Highlights
+# 🏆 highlights
 
 - 👩‍🏫 Code Coach @ **TheCoderSchool**
 - 🚀 Founder of a student coding program
-- 🤖 Interested in Artificial Intelligence
 - 🎯 Love creating products that make an impact
 
 ---
