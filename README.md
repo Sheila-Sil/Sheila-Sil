@@ -37,21 +37,17 @@
 - Artificial Intelligence
 - Mobile App Development
 - UI/UX Design
-
-⚡ Fun fact:
-> I love building things almost as much as I love teaching people how to build them.
-
 ---
 
-# 💻 Tech Stack
+# 💻 tech stack
 
-### Languages
+### languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cs"/>
 </p>
 
-### Frameworks & Tools
+### frameworks & tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,vscode"/>
@@ -69,7 +65,7 @@
 
 ---
 
-# 📌 Current Projects
+# 📌 current projects
 
 - 🚀 LaunchOS
 - 📱 Exploring mobile app development
@@ -77,7 +73,7 @@
 
 ---
 
-# 📫 Connect With Me
+# 📫 connect with me
 
 📧 **Email:** silsheila76@gmail.com
 
@@ -88,7 +84,7 @@ https://www.linkedin.com/in/sheila-sil-968b07310/
 
 <div align="center">
 
-### Thanks for stopping by!
+### thanks for stopping by!
 
 *"When life gets tough, the tough gets going. You're tuff, so keep going."*
 
