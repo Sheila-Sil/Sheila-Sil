@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Sheila Sil
+# hi, im sheila
 
-### 💻 Full-Stack Developer • Code Coach @ TheCoderSchool • CS Student
+### Code Coach @ TheCoderSchool • CS Student
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+stuff+with+code;Teaching+the+next+generation+of+developers;Always+learning+something+new." />
 
@@ -24,15 +24,15 @@
 
 ---
 
-# 🚀 About Me
+# about me
 
-🎓 High school developer passionate about software engineering, AI, and entrepreneurship.
+ High school developer passionate about software engineering, AI, and entrepreneurship.
 
-👩‍🏫 I teach programming at **TheCoderSchool**, helping students build confidence in coding through Scratch, HTML, CSS, JavaScript, and Python.
+ I teach programming at **TheCoderSchool**, helping students build confidence in coding through Scratch, HTML, CSS, JavaScript, and Python.
 
-💡 I enjoy building products that solve real-world problems, especially in education, AI, and productivity.
+ I enjoy building products that solve real-world problems, especially in education, AI, and productivity.
 
-🌱 Currently learning:
+ Currently learning:
 - Full-Stack Development
 - Artificial Intelligence
 - Mobile App Development
